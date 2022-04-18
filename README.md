@@ -5,7 +5,7 @@ Simple two player dice game. Once the user clicks on Roll the Dice button, the d
 Demo : https://anurag472.github.io/dicegame
 
 # Built with
- Html
- Css
- Javascript
- Jquery
+ * Html
+ * Css
+ * Javascript
+ * Jquery
