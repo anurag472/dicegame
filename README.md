@@ -9,3 +9,8 @@ Demo : https://anurag472.github.io/dicegame
  * Css
  * Javascript
  * Jquery
+
+## Authors
+
+  * **Anurag Patil**
+    [anurag472](https://anurag472.github.io/)
